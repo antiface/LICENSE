@@ -13,3 +13,4 @@ SOURCING
 * That's the problem, I work somewhere in the grey zone between art, design, and business. That's why I am focused these days on writing a manual for what I call "Art Operations". More on that later...
 
 See: [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)
+See also: [ArtOperations] (https://github.com/antiface/NegawattCoin/tree/master/ArtOperations)
