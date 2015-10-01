@@ -14,3 +14,5 @@ SOURCING
 
 See: [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)
 See also: [ArtOperations] (https://github.com/antiface/NegawattCoin/tree/master/ArtOperations)
+And also: [ArtOperations] (https://github.com/Historiomics/ArtOperations)
+And also: [ArtOperationsEcosystem] (https://github.com/ArtOperations/ArtOperationsEcosystem)
