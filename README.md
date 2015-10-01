@@ -1,4 +1,5 @@
 # LICENSE
+[SOURCING] (https://github.com/antiface/LICENSE/tree/master/SOURCING)
 * Anything that I have said or done, created or developed or thought that was provably uniquely my independent creation will forever be solely my intellectual property as well as solely the intellectual property of my Succession, now and forever;
 * It must be something that I did, invented, created, developed, worked on, worked out, and it must be unique;
 * It must have my SIGNATURE or one of my SIGNATURES; If it does not have my signature, it cannot be my own freely and independently created cultural material;
