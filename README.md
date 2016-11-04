@@ -29,6 +29,15 @@ NOTE:
 - IT IS PRECISELY NOT IN THE "USE" OF MY CREATIVE WORK THAT ANY LIABILITY OR CLAIM OR ANY ACTION CAN BE MADE OR ARISE FROM: BUT FROM "OTHER DEALINGS IN IT". THAT IS THE KEY FOR ARTISTS IN THE 21st CENTURY: I AM RESPONSIBLE FOR MY WORK AND "OTHER DEALINGS", EVEN THOUGH I CAN'T CONTROL HOW PEOPLE USE MY WORK OR WHAT THEY DO WITH IT OR HOW THEY CONCEIVE OF OR UNDERSTAND IT;
 - (to be continued, edited, remixed, by the Author...)
 
+### WARNING.md
+[Official Anti-Signature Icon For Strict Disapproval. (Temporary)
+![exit (system call)]
+(https://historiotheque.files.wordpress.com/2016/11/non_ag_signature_official_2016_50px_cropped.jpg)](https://en.wikipedia.org/wiki/Boundary_marker)
+
+[Official Signature Icon For Stamping Productions. (Temporary).
+![A.G. (c) 2016. All Rights Reserved]
+(https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg)](http://alexgagnon.com)
+
 ## [BACK TO INDEX OF REPOSITORIES] (https://github.com/antiface/Index)
 
 [A.G. (c) 2016. ![A.G. (c) 2016. All Rights Reserved]
