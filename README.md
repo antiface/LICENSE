@@ -19,6 +19,8 @@
 * There are great Limitations in Art, and I willingly decided to practice my profession. But I "learned the ropes", as they say, and achieved professional status, graciously received and gratefully accepted the recognition from my peers, etc.;
 * (to be continued... this is still binding as I develop it further..)
 
+========
+
 NOTE:
 - My work is not software, is not software-based. I know that makes these statements and my very presence on a site like Github rather "cumbersome". But my creative works, my cultural artifacts, cultural innovations, are not software, though they are "released" into the world. They are "distributed" publicly and have "sources" that can be accessed publicly, viewed, inspected, even reverse-engineered. The source can be "studied", "researched", but that's just about all you can do. You can CONTEMPLATE my work. That is your only license. But you still probably shouldn't contemplate it too much, too often or for too long. Hopefully you have more important things to do with your time than stare at my wall-hangings and musical ditties on the analog piano;
 - You are not free to copy, modify, publish, use, or sell my art, in any form, for any purpose, commercial or non-commercial, by any means. When all jurisdictions recognize copyright laws, I as author may finally have the moral rights of my artistic productions respected locally in my neighborhood;
