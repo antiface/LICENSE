@@ -12,10 +12,14 @@ SOURCING
 * One might say that this is what Copyright, All Rights Reserved means, and fundamentally, yes, that's precisely what Copyright, All Rights Reserved is all about. The problem is that some of what I do cannot be protected by copyright. That is, it is in between normal "copyrightable" intellectual property and what one might call "business methods" or trademarks which might be patented.
 * That's the problem, I work somewhere in the grey zone between art, design, and business. That's why I am focused these days on writing a manual for what I call "Art Operations". More on that later...
 
-See: [OPERATIONS] (https://github.com/antiface/ArchivesProject/tree/master/Operations)
+See: [OPERATIONS](https://github.com/antiface/ArchivesProject/tree/master/Operations)
 
-See also: [ArtOperations] (https://github.com/antiface/NegawattCoin/tree/master/ArtOperations)
+See also: [ArtOperations](https://github.com/antiface/NegawattCoin/tree/master/ArtOperations)
 
-And also: [ArtOperations] (https://github.com/Historiomics/ArtOperations)
+And also: [ArtOperations](https://github.com/Historiomics/ArtOperations)
 
-And also: [ArtOperationsEcosystem] (https://github.com/ArtOperations/ArtOperationsEcosystem)
+And also: [ArtOperationsEcosystem](https://github.com/ArtOperations/ArtOperationsEcosystem)
+
+## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
+
+[A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
